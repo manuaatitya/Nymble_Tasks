@@ -1,0 +1,4 @@
+# The system configuration file
+pc_config:
+  serial_port: /dev/ttyACM0
+  serial_baud_rate: 2400
