@@ -1,5 +1,5 @@
 # Nymble_Tasks
-Codes for the Tasks - Nymble Embedded Systems Engineer Position
+Codes for the Tasks - Nymble
 
 ## Task 1: PC and MCU UART Communication
 
